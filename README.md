@@ -9,3 +9,4 @@ https://www.youtube.com/watch?v=9ou608QQRq8&t=149s
 
 Diagrama UML
 
+![Diagramação de um Componente iPhone](https://github.com/Samuel-BC/Modelando-o-iPhone-com-UML/assets/48744282/2b0a3cda-5087-47ea-83e3-e2b8aef084f9)
